@@ -3,7 +3,7 @@
 #### Project Outline
 Build a tic-tac-toe game in the browser where two human players can play against each other.
 
-Extended brief: Use responsive design principles.
+Extended Brief: Use responsive design principles.
 
 ##### Skills Developed
 <ul>
